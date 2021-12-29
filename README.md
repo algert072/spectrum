@@ -241,11 +241,3 @@ yarn run dev:web
 <div align="center">	
   <img height="200px" src="public/img/connect.svg" />	
 </div>
-
-## GitHub
-
-Spectrum is now part of GitHub. For code of conduct, please see [GitHub's Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines) and [Acceptable Use Policies](https://help.github.com/en/github/site-policy/github-acceptable-use-policies).
-
-## License
-
-BSD 3-Clause, see the [LICENSE](./LICENSE) file.
